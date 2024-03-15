@@ -1,0 +1,53 @@
+/* reser css nha  bạn */
+* {
+
+    padding: 0 px;
+    margin: 0 px;
+    box-sizing: border-box;
+}
+
+/* vị trí */
+/* kích thước */
+/* màu xắc */
+/* kiểu dáng kích thước  */
+
+
+
+
+#main {}
+
+#header {
+    height: 46px;
+    background-color: #000;
+}
+
+#nav li {
+
+    display: inline-block;
+}
+
+#nav li a {
+
+    line-height: 46px;
+    padding: 0 24px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    display: inline-block;
+}
+
+#nav li:hover a {
+    background-color: #ccc;
+    color: #000;
+}
+
+#nav li .subnav {
+
+    display: none;
+}
+
+#slider {}
+
+#content {}
+
+#footer {}
